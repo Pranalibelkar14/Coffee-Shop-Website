@@ -1,4 +1,4 @@
-<img width="1855" height="905" alt="image" src="https://github.com/user-attachments/assets/aea99677-b9c4-4121-8945-d58b94177b43" /># ☕ Coffee Shop Website
+☕ Coffee Shop Website
 
 A simple and elegant **Coffee Shop Website** built with **HTML, CSS, and JavaScript**.  
 This project showcases a responsive design, menu section, and interactive elements to give a real coffee shop feel.  
@@ -16,10 +16,10 @@ This project showcases a responsive design, menu section, and interactive elemen
 
 ## 📂 Project Structure
 coffee-shop-website/
-│-- index.html
-│-- style.css
-│-- script.js
-│-- /images
+✅ index.html
+✅ style.css
+✅ script.js
+✅ images
 
 ---
 ## 🛠️ Technologies Used
@@ -30,6 +30,6 @@ coffee-shop-website/
 
 ## 🖼️ Screenshots
 ### Homepage Preview
-![Coffee Shop Homepage](<img width="1855" height="905" alt="image" src="https://github.com/user-attachments/assets/c263d6e6-7a44-4ecf-ba38-7dd7d0ea3ab8" />
-)
+<img width="1855" height="905" alt="image" src="https://github.com/user-attachments/assets/c263d6e6-7a44-4ecf-ba38-7dd7d0ea3ab8" />
+
 ---
