@@ -15,10 +15,14 @@ This project showcases a responsive design, menu section, and interactive elemen
 ---
 
 ## 📂 Project Structure
-coffee-shop-website/
+coffee-shop-website
+
 ✅ index.html
+
 ✅ style.css
+
 ✅ script.js
+
 ✅ images
 
 ---
