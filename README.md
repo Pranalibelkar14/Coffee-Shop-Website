@@ -18,11 +18,8 @@ This project showcases a responsive design, menu section, and interactive elemen
 coffee-shop-website
 
 ✅ index.html
-
 ✅ style.css
-
 ✅ script.js
-
 ✅ images
 
 ---
